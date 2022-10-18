@@ -1,0 +1,45 @@
+[{
+"id": 1,
+"name": "iPhone 7 Plus",
+"description": "Apple, 32GB, RAM: 3GB, iOS13",
+"price": 17000000,
+"image":
+"https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/iPhone_14_Pro_Max-Pur1.jpg",
+"category_id": 1
+}, {
+"id": 2,
+"name": "iPad Pro 2020",
+"description": "Apple, 128GB, RAM: 6GB",
+"price": 37000000,
+"image":
+"https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/iPhone_14_Pro_Max-Pur1.jpg",
+"category_id": 2
+},
+  {
+"id": 4,
+"name": "Galaxy Note 10 Plus",
+"description": "Samsung, 64GB, RAML: 6GB",
+"price": 24000000,
+"image":
+"https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/iPhone_14_Pro_Max-Pur1.jpg",
+"category_id": 1
+},
+  {
+"id": 5,
+"name": "Iphone 14 Pro",
+"description": "Samsung, 64GB, RAML: 6GB",
+"price": 24000000,
+"image":
+"https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/iPhone_14_Pro_Max-Pur1.jpg",
+"category_id": 1
+},
+  {
+"id": 6,
+"name": "Iphone 14 Pro Max",
+"description": "Iphone, 64GB, RAML: 6GB",
+"price": 24000000,
+"image":
+"https://cdn1.viettelstore.vn/images/Product/ProductImage/medium/iPhone_14_Pro_Max-Pur1.jpg",
+"category_id": 1
+}
+]
